@@ -16,5 +16,5 @@
 		"node": "16.15.0"
 	},
 	"description": "a package that does something awesome",
-	"keywords": [ "descriptive", "related", "words" ]
+	"keywords": [ "descriptive", "related", "words", "freecodecamp" ]
 }
