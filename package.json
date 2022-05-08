@@ -11,5 +11,9 @@
 		"type": "git",
 		"url": "https://idontknow/todo.git"
 	},
-	"author": "Chris Middleton"
+	"author": "Chris Middleton",
+	"engines": {
+		"node": "16.15.0"
+	},
+	"description": "a package that does something awesome"
 }
